@@ -1,2 +1,2 @@
-# html_picture
-picture shows and filter
+technology: bootstrap+masony+imageload+colorbox+jquery with gruntjs
+purpose: picture shows and filter
